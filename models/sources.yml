@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: my_project
-    database: analytics  
+    database: ANALYTICS  
     schema: raw  
     tables:
       - name: nation
